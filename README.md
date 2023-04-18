@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Javascript,React,UI/UX**
 
-- 💬 Ask me about **HTML,CSS,DBMS,**
+- 💬 Ask me about **HTML, CSS, JS, DBMS**
 
 - 📫 How to reach me **kaveriasopa@gmail.com**
 
