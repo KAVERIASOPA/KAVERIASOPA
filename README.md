@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Java Script**
 
-- 🌱 I’m currently learning **Javascript,React,UI/UX**
+- 🌱 I’m currently learning **Javascript, UI/UX**
 
 - 💬 Ask me about **HTML, CSS, JS, DBMS**
 
