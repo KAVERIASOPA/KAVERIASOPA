@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveriasopa&label=Profile%20views&color=0e75b6&style=flat" alt="kaveriasopa" /> </p>
 
-- 🔭 I’m currently working on **Java Script**
+- 🔭 I’m currently working on **ReactJS**
 
-- 🌱 I’m currently learning **Javascript, UI/UX**
+- 🌱 I’m currently learning **ReactJS Hooks**
 
-- 💬 Ask me about **HTML, CSS, JS, DBMS**
+- 💬 Ask me about **HTML, CSS, Vanilla JavaScript**
 
-- 📫 How to reach me **kaveriasopa@gmail.com**
+- 📫 How to reach me **kaveriasopa28@gmail.com**
+
+- 💬 Ask me about ** JavaScript , HTML , CSS , C++ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
