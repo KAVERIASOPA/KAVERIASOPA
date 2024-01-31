@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **kaveriasopa28@gmail.com**
 
-- 💬 Ask me about ** JavaScript , HTML , CSS , C++ **
+- 💬 Ask me about **JavaScript , HTML , CSS , C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
