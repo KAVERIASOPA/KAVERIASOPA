@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ReactJS Hooks**
 
-- 💬 Ask me about **HTML, CSS, Vanilla JavaScript**
-
 - 📫 How to reach me **kaveriasopa28@gmail.com**
 
 - 💬 Ask me about **ReactJS , JavaScript , HTML , CSS , C++**
